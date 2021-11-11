@@ -3,8 +3,10 @@
 *.png
 *.csv
 *.xlsx
+-.xls
 paths.py
 *backup*
+LIMSalloys/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
